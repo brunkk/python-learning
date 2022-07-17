@@ -1,4 +1,4 @@
-kateb@Kates-MacBook-Pro ~ % pip3 install arrow
+-MacBook-Pro ~ % pip3 install arrow
 Collecting arrow
   Using cached arrow-1.2.2-py3-none-any.whl (64 kB)
 Collecting python-dateutil>=2.7.0
@@ -9,7 +9,7 @@ Installing collected packages: six, python-dateutil, arrow
 Successfully installed arrow-1.2.2 python-dateutil-2.8.2 six-1.16.0
 WARNING: You are using pip version 22.0.4; however, version 22.1.2 is available.
 You should consider upgrading via the '/Library/Frameworks/Python.framework/Versions/3.10/bin/python3.10 -m pip install --upgrade pip' command.
-kateb@Kates-MacBook-Pro ~ % python3
+--MacBook-Pro ~ % python3
 Python 3.10.5 (v3.10.5:f377153967, Jun  6 2022, 12:36:10) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import arrow
@@ -29,9 +29,9 @@ SyntaxError: invalid syntax
                         ^
 SyntaxError: invalid syntax
 >>> exit()
-kateb@Kates-MacBook-Pro ~ % python3 --version
+--MacBook-Pro ~ % python3 --version
 Python 3.10.5
-kateb@Kates-MacBook-Pro ~ % python3
+--MacBook-Pro ~ % python3
 Python 3.10.5 (v3.10.5:f377153967, Jun  6 2022, 12:36:10) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import arrow
